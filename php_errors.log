@@ -1,0 +1,5 @@
+[29-Oct-2017 16:48:21 UTC] PHP Fatal error:  Call to undefined function arr() in /home/ubuntu/workspace/backup/test.php on line 4
+[29-Oct-2017 16:48:21 UTC] PHP Stack trace:
+[29-Oct-2017 16:48:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/backup/test.php:0
+[29-Oct-2017 16:50:34 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/ubuntu/workspace/backup/test.php on line 4
+[29-Oct-2017 16:50:49 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/backup/test.php on line 4

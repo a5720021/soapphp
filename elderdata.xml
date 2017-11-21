@@ -1,0 +1,32 @@
+<elderdata>
+    <elder>
+        <e_id>1</e_id>
+        <e_age>62</e_age>
+        <e_addr>Bangkok</e_addr>
+        <e_name>Scott</e_name>
+    </elder>
+    <elder>
+        <e_id>2</e_id>
+        <e_age>75</e_age>
+        <e_addr>Nonthaburi</e_addr>
+        <e_name>Johnson</e_name>
+    </elder>
+    <elder>
+        <e_id>3</e_id
+        ><e_age>81</e_age>
+        <e_addr>Ayuthaya</e_addr>
+        <e_name>Micheal</e_name>
+    </elder>
+    <elder>
+        <e_id>4</e_id>
+        <e_age>85</e_age>
+        <e_addr>Pratumthani</e_addr>
+        <e_name>Prayut</e_name>
+    </elder>
+    <elder>
+        <e_id>5</e_id>
+        <e_age>69</e_age>
+        <e_addr>Nakorn Sawan</e_addr>
+        <e_name>Wanna</e_name>
+    </elder>
+</elderdata>
